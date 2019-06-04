@@ -1,4 +1,4 @@
-import {css} from "glamor";
+
 
 /**
  *  String
@@ -24,57 +24,3 @@ export const languageDefault = {
     i18nDefault: 'vi',
     flagDefault: 'VN'
 };
-
-export const toastStyle = {
-    className: css({
-        borderRadius: "3px !important",
-    }),
-    progressClassName: css({
-        borderRadius: "3px !important",
-        borderTopLeftRadius: "0px !important"
-    })
-};
-
-/**
- *  Model Label
- */
-
-export const productLabel = {
-    productName:'productName',
-    sellPrice:'sellPrice',
-    listedPrice:'listedPrice',
-    shortDes:'shortDes',
-    feature:'feature',
-    detail:'detail',
-    productLink:'productLink',
-    imageArr:'imageArr',
-};
-
-export const vcardLabel = {
-    avatar: 'avatar',
-
-    name: 'name',
-    shortDes: 'shortDes',
-
-    facebook: 'facebook',
-    twitter: 'twitter',
-    instagram: 'instagram',
-    linkedin: 'linkedin',
-
-    email: 'email',
-    mobile: 'mobile',
-    phone: 'phone',
-    fax: 'fax',
-
-    address: 'address',
-    company: 'company',
-    job: 'job',
-    city: 'city',
-    zipCode: 'zipCode',
-    country: 'country',
-
-    tags:'tags'
-};
-
-
-

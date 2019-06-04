@@ -58,6 +58,7 @@
     "react-app-rewired": "^2.1.3",
     "react-dom": "^16.8.6",
     "customize-cra": "^0.2.12",
+    "react-loading-screen": "^0.0.17",
 
     "react-router-dom": "^5.0.0",
     "react-router-sitemap": "^1.2.0",

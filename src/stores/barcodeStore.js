@@ -1,7 +1,5 @@
 import {action, observable} from 'mobx';
 import agent from '../agent';
-import 'react-toastify/dist/ReactToastify.css';
-import ReactGA from "react-ga";
 
 class BarcodeStore {
     @observable inProgress = false;
@@ -53,11 +51,6 @@ class BarcodeStore {
 
         imageProp = this.checkImagePropNull(imageProp);
 
-        ReactGA.event({
-            category: 'Barcode',
-            action: 'Generate Static'
-        });
-
         return agent.Barcode.generate(content, imageProp)
             .then((response) => {
                 if (response.success) {
@@ -77,12 +70,6 @@ class BarcodeStore {
         this.errors = undefined;
 
         imageProp = this.checkImagePropNull(imageProp);
-
-
-        ReactGA.event({
-            category: 'Barcode',
-            action: 'Generate Input'
-        });
 
         return agent.Barcode.generate(content, imageProp)
             .catch((errors) => {

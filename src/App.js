@@ -5,11 +5,7 @@ import {BrowserRouter, Redirect, Route, Switch, withRouter} from 'react-router-d
 import commonStore from './stores/commonStore';
 import BarcodeLoadingPage from "./layouts/BarcodeLoadingPage";
 
-import {toast} from 'react-toastify';
-import {css} from "glamor";
 import LoadingScreen from "./layouts/LoadingScreen";
-import ReactGA from 'react-ga';
-import {GG_ANALYTIC_CODE} from "./constants";
 
 
 @inject('userStore', 'commonStore')

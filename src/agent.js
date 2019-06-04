@@ -2,8 +2,7 @@ import superagentPromise from 'superagent-promise';
 import _superagent from 'superagent';
 import commonStore from './stores/commonStore';
 import authStore from './stores/authStore';
-import {API_ROOT, toastStyle} from "./constants";
-import {toast} from "react-toastify";
+import {API_ROOT} from "./constants";
 
 const superagent = superagentPromise(_superagent, global.Promise);
 
@@ -20,9 +19,9 @@ const handleErrors = err => {
 
 const toastError = (str) => {
     if (str) {
-        toast.error(str, toastStyle);
+        console.log(str)
     }else {
-        toast.error("Đã có lỗi xảy ra. Vui lòng thử lại!", toastStyle);
+        console.log("Đã có lỗi xảy ra. Vui lòng thử lại!");
     }
 };
 

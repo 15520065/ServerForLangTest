@@ -3,9 +3,6 @@ import agent from '../agent';
 import userStore from './userStore';
 import commonStore from './commonStore';
 
-import {toast} from "react-toastify";
-import {toastStyle} from "../constants";
-import ReactGA from "react-ga";
 
 class AuthStore {
     @observable inProgress = false;
@@ -49,12 +46,6 @@ class AuthStore {
         this.inProgress = true;
         this.errors = undefined;
 
-        ReactGA.event({
-            category: 'User',
-            action: 'Login',
-            value: this.values.username
-        });
-
         return agent.Auth.login(this.values.username, this.values.password)
             .then((user) => commonStore.setToken(user.accessToken))
             .then(() => userStore.pullUser())
@@ -73,12 +64,6 @@ class AuthStore {
         this.inProgress = true;
         this.errors = undefined;
 
-
-        ReactGA.event({
-            category: 'User',
-            action: 'Created an Account',
-            value: this.values.username
-        });
 
         return agent.Auth.signup(this.values.username, this.values.email, this.values.password, this.values.name)
             .then((signupResponse) => {
@@ -105,17 +90,12 @@ class AuthStore {
             return true;
         }
         else {
-            toast.info("Vui lòng đăng nhập trước!", toastStyle);
+            console.log("Vui lòng đăng nhập trước!");
             return false;
         }
     }
 
     @action logout() {
-        ReactGA.event({
-            category: 'User',
-            action: 'Logout',
-            value: this.values.username ? this.values.username : "undefined"
-        });
 
         commonStore.setToken(undefined);
         userStore.forgetUser();
