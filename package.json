@@ -7,6 +7,10 @@
     "react",
     "reactjs"
   ],
+  "engines": {
+    "node": "9.3.0",
+    "npm": "5.6.0"
+  },
   "author": "UIT",
   "license": "MIT",
   "homepage": "https://qrcode-free.com",
