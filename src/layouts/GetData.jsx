@@ -8,7 +8,7 @@ class GetData extends React.Component {
     render() {
         return (
             <div className="">
-                {JSON.stringify(topicFlatListData)}
+                {}
             </div>
         )
     }
@@ -48,4 +48,4 @@ const topicFlatListData = [
 ];
 
 
-export default GetData;
+export default JSON.stringify(topicFlatListData);

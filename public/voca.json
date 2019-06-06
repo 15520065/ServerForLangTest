@@ -1,0 +1,258 @@
+{
+  "topicFlatListData": [
+    {
+      "id": "t1",
+      "name": "Contract",
+      "count": "12",
+      "img": "https://www.iamexpat.nl/sites/default/files/styles/article--full/public/oldimages/67cddc45e6e8c166afe752d0b5e0866c1441700680.jpg?itok=1VUc7csy"
+    },
+    {
+      "id": "t2",
+      "name": "Marketing",
+      "count": "12",
+      "img": "http://2.pik.vn/2017691a2d40-c263-42e9-bf3d-b8ae2635f81f.jpg"
+    },
+    {
+      "id": "t3",
+      "name": "Warranties",
+      "count": "12",
+      "img": "https://www.affordablewindowstexas.com/wp-content/uploads/2017/04/warranty.png"
+    },
+    {
+      "id": "t4",
+      "name": "Business Planning",
+      "count": "12",
+      "img": "https://blog.postofficeshop.co.uk/wp-content/uploads/2014/07/Business-Plan-1.jpg"
+    },
+    {
+      "id": "t5",
+      "name": "Conferences",
+      "count": "12",
+      "img": "https://www.affordablewindowstexas.com/wp-content/uploads/2017/04/warranty.png"
+    }
+  ],
+  "wordMap": {
+    "t1":[
+      {
+        "id":"t1w1",
+        "word": "Abide by",
+        "pronoun": "əˈbaɪd",
+        "translate": "tuân theo, tuân thủ",
+        "ex": "",
+        "img": "http://langtest.tk/voca/word/img/t1w1.jpg" ,
+        "sound": "http://langtest.tk/voca/word/sound/t1w1.mp3"
+      },
+      {
+        "id":"t1w2",
+        "word": "Agreement",
+        "pronoun": "ə’gri:mənt",
+        "translate": "hợp đồng, giao kèo",
+        "ex": "",
+        "img": "http://langtest.tk/voca/word/img/t1w2.jpg" ,
+        "sound": "http://langtest.tk/voca/word/sound/t1w2.mp3"
+      },
+      {
+        "id":"t1w3",
+        "word": "Assurance",
+        "pronoun": "ə’ʃuərəns",
+        "translate": "sự chắc chắn,sự tin chắc",
+        "ex": "",
+        "img": "http://langtest.tk/voca/word/img/t1w3.jpg" ,
+        "sound": "http://langtest.tk/voca/word/sound/t1w3.mp3"
+      },
+      {
+        "id":"t1w4",
+        "word": "Cancellation",
+        "pronoun": "ˈkæn.səl",
+        "translate": "sự hủy bỏ",
+        "ex": "",
+        "img": "http://langtest.tk/voca/word/img/t1w4.jpg" ,
+        "sound": "http://langtest.tk/voca/word/sound/t1w4.mp3"
+      },
+      {
+        "id":"t1w5",
+        "word": "Determine",
+        "pronoun": "di’tə:min",
+        "translate": "xác định, định rõ",
+        "ex": "",
+        "img": "http://langtest.tk/voca/word/img/t1w5.jpg",
+        "sound": "http://langtest.tk/voca/word/sound/t1w5.mp3"
+      },
+      {
+        "id":"t1w6",
+        "word": "Engage",
+        "pronoun": "in’geidʒ",
+        "translate": "tuyển dụng một người; thuê một người",
+        "ex": "",
+        "img": "http://langtest.tk/voca/word/img/t1w6.jpg",
+        "sound": "http://langtest.tk/voca/word/sound/t1w6.mp3"
+      },
+      {
+        "id":"t1w7",
+        "word": "Establish",
+        "pronoun": "is’tæbli∫",
+        "translate": "thành lập, thiết lập",
+        "ex": "",
+        "img": "http://langtest.tk/voca/word/img/t1w7.jpg",
+        "sound": "http://langtest.tk/voca/word/sound/t1w7.mp3"
+      },
+      {
+        "id":"t1w8",
+        "word": "Obligate",
+        "pronoun": "‘ɔbligei",
+        "translate": "bắt buộc, ép buộc",
+        "ex": "",
+        "img": "http://langtest.tk/voca/word/img/t1w8.jpg",
+        "sound": "http://langtest.tk/voca/word/sound/t1w8.mp3"
+      },
+      {
+        "id":"t1w9",
+        "word": "Party",
+        "pronoun": "ˈpɑːr.t̬i",
+        "translate": "1 người hoặc 1 nhóm tham gia",
+        "ex": "",
+        "img": "http://langtest.tk/voca/word/img/t1w9.jpg",
+        "sound": "http://langtest.tk/voca/word/sound/t1w9.mp3"
+      },
+      {
+        "id":"t1w10",
+        "word": "Provision",
+        "pronoun": "prəˈvɪʒ.ən",
+        "translate": "điều khoản",
+        "ex": "",
+        "img": "http://langtest.tk/voca/word/img/t1w10.jpg",
+        "sound": "http://langtest.tk/voca/word/sound/t1w10.mp3"
+      },
+      {
+        "id":"t1w11",
+        "word": "Resolve",
+        "pronoun": "ri’zɔlv",
+        "translate": "quyết tâm, ý kiên quyết",
+        "ex": "",
+        "img": "http://langtest.tk/voca/word/img/t1w11.jpg",
+        "sound": "http://langtest.tk/voca/word/sound/t1w11.mp3"
+      },
+      {
+        "id":"t1w12",
+        "word": "Specific",
+        "pronoun": "spəˈsɪf.ɪk",
+        "translate": "rõ ràng, rành mạch",
+        "ex": "",
+        "img": "http://langtest.tk/voca/word/img/t1w12.jpg",
+        "sound": "http://langtest.tk/voca/word/sound/t1w12.mp3"
+      }
+    ],
+    "t2":[
+      {
+        "id":"t2w1",
+        "word": "Attract",
+        "pronoun": "ə’trækt",
+        "translate": "thu hút, lôi cuốn",
+        "ex": "I'm attracted to you.",
+        "img": "http://langtest.tk/voca/word/img/t2w1.jpg",
+        "sound": "http://langtest.tk/voca/word/sound/t2w1.mp3"
+      },
+      {
+        "id":"t2w2",
+        "word": "Compare",
+        "pronoun": "kəm’peə",
+        "translate": "so sánh",
+        "ex": "He couldn't help but compare the situation to Billy Langstrom's.",
+        "img": "http://langtest.tk/voca/word/img/t2w2.jpg",
+        "sound": "http://langtest.tk/voca/word/sound/t2w2.mp3"
+      },
+      {
+        "id":"t2w3",
+        "word": "Competition",
+        "pronoun": "kɑːm.pəˈtɪʃ.ən",
+        "translate": "cạnh tranh, thi đấu",
+        "ex":
+        "The competition of France ceased for a time to be an important factor.",
+        "img": "http://langtest.tk/voca/word/img/t2w3.jpg",
+        "sound": "http://langtest.tk/voca/word/sound/t2w3.mp3"
+      },
+      {
+        "id":"t2w4",
+        "word": "Consume",
+        "pronoun": "kən’sju:m",
+        "translate": "dùng, tiêu thụ",
+        "ex":
+        "If you are able to consume more energy, you can do more work and therefore create more.",
+        "img": "http://langtest.tk/voca/word/img/t2w4.jpg",
+        "sound": "http://langtest.tk/voca/word/sound/t2w4.mp3"
+      },
+      {
+        "id":"t2w5",
+        "word": "Convince",
+        "pronoun": "kən’vins",
+        "translate": "thuyết phục",
+        "ex": "He might object to you, but I can convince him to take you.",
+        "img": "http://langtest.tk/voca/word/img/t2w5.jpg",
+        "sound": "http://langtest.tk/voca/word/sound/t2w5.mp3"
+      },
+      {
+        "id":"t2w6",
+        "word": "Currently",
+        "pronoun": "ˈkɝː.ənt.li",
+        "translate": "hiện nay, lúc này",
+        "ex": "There is reason to believe that the extent of this practice was not so great as was currently reported.",
+        "img": "http://langtest.tk/voca/word/img/t2w6.jpg",
+        "sound": "http://langtest.tk/voca/word/sound/t2w6.mp3"
+      },
+      {
+        "id":"t2w7",
+        "word": "Fad",
+        "pronoun": "fæd",
+        "translate": "mốt, sự thích thú tạm thời",
+        "ex": "Not just another fad product, ozone-treated olive oil has been scientifically evaluated for its use in acute wound healing ",
+        "img": "http://langtest.tk/voca/word/img/t2w7.jpg",
+        "sound": "http://langtest.tk/voca/word/sound/t2w7.mp3"
+      },
+      {
+        "id":"t2w8",
+        "word": "Inspiration",
+        "pronoun": "ɪn.spəˈreɪ.ʃən",
+        "translate": "truyền cảm hứng",
+        "ex": "It is the main inspiration of Japanese art, which, however, shows great originality in its treatment of borrowed themes.",
+        "img": "http://langtest.tk/voca/word/img/t2w8.jpg",
+        "sound": "http://langtest.tk/voca/word/sound/t2w8.mp3"
+      },
+      {
+        "id":"t2w9",
+        "word": "Market",
+        "pronoun": "ˈmɑːr.kɪt",
+        "translate": "thị trường, chợ",
+        "ex": "There is a large weekly market for grain, and annual horse and cattle fairs.",
+        "img": "http://langtest.tk/voca/word/img/t2w9.jpg",
+        "sound": "http://langtest.tk/voca/word/sound/t2w9.mp3"
+      },
+      {
+        "id":"t2w10",
+        "word": "Persuasion",
+        "pronoun": "pɚˈsweɪ.ʒən",
+        "translate": "sự thuyết phục mạnh mẽ",
+        "ex": "Conversion is to be effected by persuasion, not by the sword.",
+        "img": "http://langtest.tk/voca/word/img/t2w10.jpg",
+        "sound": "http://langtest.tk/voca/word/sound/t2w10.mp3"
+      },
+      {
+        "id":"t2w11",
+        "word": "Productive",
+        "pronoun": "prəˈdʌk.tɪv",
+        "translate": "có năng suất, có hiệu quả",
+        "ex": "Saturday and Sunday were both productive days with four sessions taking place each day.",
+        "img": "http://langtest.tk/voca/word/img/t2w11.jpg",
+        "sound": "http://langtest.tk/voca/word/sound/t2w11.mp3"
+      },
+      {
+        "id":"t2w12",
+        "word": "Satisfaction",
+        "pronoun": "sæt̬.ɪsˈfæk.ʃən",
+        "translate": "sự thỏa mãn, sự hài lòng",
+        "ex": "The satisfaction and well-being he garnered frightened him.",
+        "img": "http://langtest.tk/voca/word/img/t2w12.jpg",
+        "sound": "http://langtest.tk/voca/word/sound/t2w12.mp3"
+      }
+    ]
+  }
+}

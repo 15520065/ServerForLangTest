@@ -20,8 +20,8 @@ class App extends React.Component {
             <BrowserRouter>
                 <Switch>
                     <Route
-                        path="/a"
-                        render={props => <GetData {...props} />}
+                        path="/getdata"
+                        render={<GetData {...props} /> }
                     />
                     <Route
                         path="/"
