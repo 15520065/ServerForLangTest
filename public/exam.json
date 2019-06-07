@@ -2,9 +2,9 @@
   "exams": [
     {
       "id": "exam1",
-      "title": "Sample 1",
+      "title": "Sample 1 - Ready to school",
       "diff": 4,
-      "img": "http://langtest.tk/voca/word/img/t1w1.jpg",
+      "img": "https://image.freepik.com/free-vector/cute-background-of-happy-children-learning_23-2147610504.jpg",
       "step1": {
         "listening": [
           {
@@ -531,9 +531,9 @@
     },
     {
       "id": "exam2",
-      "title": "Sample 2",
+      "title": "Sample 2 - Let's Go",
       "diff": 4,
-      "img": "http://langtest.tk/voca/word/img/t1w1.jpg",
+      "img": "https://image.freepik.com/free-vector/background-children-learning-class-with-teacher_23-2147608736.jpg",
       "step1": {
         "listening": [
           {
@@ -1558,7 +1558,8 @@
             "answer": [
               "A co-worker",
               "A friend",
-              "A pet"],
+              "A pet"
+            ],
             "correctAnswer": 1,
             "difficultLevel": 3
           }, {
@@ -1568,7 +1569,8 @@
             "answer": [
               "Family",
               "Co-workers",
-              "Friendship"],
+              "Friendship"
+            ],
             "correctAnswer": 2,
             "difficultLevel": 3
           }, {
@@ -1578,7 +1580,8 @@
             "answer": [
               "News",
               "An announcement",
-              "A secret"],
+              "A secret"
+            ],
             "correctAnswer": 2,
             "difficultLevel": 3
           }, {
@@ -1588,7 +1591,8 @@
             "answer": [
               "A partner",
               "A part",
-              "Partially"],
+              "Partially"
+            ],
             "correctAnswer": 0,
             "difficultLevel": 3
           },
@@ -1599,11 +1603,14 @@
             "answer": [
               "Her best student",
               "Her best friend",
-              "Her best sister"],
+              "Her best sister"
+            ],
             "correctAnswer": 1,
             "imageAsset": "http://langtest.tk/images/step2/imagereading/rpart2/1q123.png",
             "difficultLevel": 3,
-            "comeWith": ["r_s2_b1_u1_p2_1", "r_s2_b1_u1_p2_2", "r_s2_b1_u1_p2_3"]
+            "comeWith": [
+              "r_s2_b1_u1_p2_1", "r_s2_b1_u1_p2_2", "r_s2_b1_u1_p2_3"
+            ]
           }, {
             "id": "r_s2_b1_u1_p2_2",
             "type": "QuestionType.part3",
@@ -1611,11 +1618,14 @@
             "answer": [
               "That she spreads rumors",
               "That she knows funny jokes",
-              "That she only thinks about herself"],
+              "That she only thinks about herself"
+            ],
             "correctAnswer": 1,
             "imageAsset": "http://langtest.tk/images/step2/imagereading/rpart2/1q123.png",
             "difficultLevel": 3,
-            "comeWith": ["r_s2_b1_u1_p2_1", "r_s2_b1_u1_p2_2", "r_s2_b1_u1_p2_3"]
+            "comeWith": [
+              "r_s2_b1_u1_p2_1", "r_s2_b1_u1_p2_2", "r_s2_b1_u1_p2_3"
+            ]
           }, {
             "id": "r_s2_b1_u1_p2_3",
             "type": "QuestionType.part3",
@@ -1623,11 +1633,14 @@
             "answer": [
               "Math",
               "Chocolate milk.",
-              "Strawberry milk"],
+              "Strawberry milk"
+            ],
             "correctAnswer": 2,
             "imageAsset": "http://langtest.tk/images/step2/imagereading/rpart2/1q123.png",
             "difficultLevel": 3,
-            "comeWith": ["r_s2_b1_u1_p2_1", "r_s2_b1_u1_p2_2", "r_s2_b1_u1_p2_3"]
+            "comeWith": [
+              "r_s2_b1_u1_p2_1", "r_s2_b1_u1_p2_2", "r_s2_b1_u1_p2_3"
+            ]
           }, {
             "id": "r_s2_b1_u1_p2_4",
             "type": "QuestionType.part3",
@@ -1635,11 +1648,14 @@
             "answer": [
               "He likes soccer",
               "He moved to a new city",
-              "He doesn’t know how to play basketball"],
+              "He doesn’t know how to play basketball"
+            ],
             "correctAnswer": 1,
             "imageAsset": "http://langtest.tk/images/step2/imagereading/rpart2/1q45.png",
             "difficultLevel": 3,
-            "comeWith": ["r_s2_b1_u1_p2_4", "r_s2_b1_u1_p2_5"]
+            "comeWith": [
+              "r_s2_b1_u1_p2_4", "r_s2_b1_u1_p2_5"
+            ]
           }, {
             "id": "r_s2_b1_u1_p2_5",
             "type": "QuestionType.part3",
@@ -1647,11 +1663,14 @@
             "answer": [
               "To blame him for the game",
               "To ask how he is doing",
-              "To tell him that he is moving, too"],
+              "To tell him that he is moving, too"
+            ],
             "correctAnswer": 1,
             "imageAsset": "http://langtest.tk/images/step2/imagereading/rpart2/1q45.png",
             "difficultLevel": 3,
-            "comeWith": ["r_s2_b1_u1_p2_4", "r_s2_b1_u1_p2_5"]
+            "comeWith": [
+              "r_s2_b1_u1_p2_4", "r_s2_b1_u1_p2_5"
+            ]
           }, {
             "id": "r_s2_b1_u1_p2_6",
             "type": "QuestionType.part3",
@@ -1659,11 +1678,14 @@
             "answer": [
               "Going to college",
               "Going to the movies",
-              "Having friends"],
+              "Having friends"
+            ],
             "correctAnswer": 2,
             "imageAsset": "http://langtest.tk/images/step2/imagereading/rpart2/1q678.png",
             "difficultLevel": 3,
-            "comeWith": ["r_s2_b1_u1_p2_6", "r_s2_b1_u1_p2_7", "r_s2_b1_u1_p2_8"]
+            "comeWith": [
+              "r_s2_b1_u1_p2_6", "r_s2_b1_u1_p2_7", "r_s2_b1_u1_p2_8"
+            ]
           }, {
             "id": "r_s2_b1_u1_p2_7",
             "type": "QuestionType.part3",
@@ -1671,11 +1693,14 @@
             "answer": [
               "Happiness",
               "Excitement",
-              "Stress"],
+              "Stress"
+            ],
             "correctAnswer": 2,
             "imageAsset": "http://langtest.tk/images/step2/imagereading/rpart2/1q678.png",
             "difficultLevel": 3,
-            "comeWith": ["r_s2_b1_u1_p2_6", "r_s2_b1_u1_p2_7", "r_s2_b1_u1_p2_8"]
+            "comeWith": [
+              "r_s2_b1_u1_p2_6", "r_s2_b1_u1_p2_7", "r_s2_b1_u1_p2_8"
+            ]
           }, {
             "id": "r_s2_b1_u1_p2_8",
             "type": "QuestionType.part3",
@@ -1683,11 +1708,14 @@
             "answer": [
               "It makes our lives more depressed",
               "It makes our lives more enjoyable",
-              "It makes our lives more difficult"],
+              "It makes our lives more difficult"
+            ],
             "correctAnswer": 1,
             "imageAsset": "http://langtest.tk/images/step2/imagereading/rpart2/1q678.png",
             "difficultLevel": 3,
-            "comeWith": ["r_s2_b1_u1_p2_6", "r_s2_b1_u1_p2_7", "r_s2_b1_u1_p2_8"]
+            "comeWith": [
+              "r_s2_b1_u1_p2_6", "r_s2_b1_u1_p2_7", "r_s2_b1_u1_p2_8"
+            ]
           }, {
             "id": "r_s2_b1_u1_p2_9",
             "type": "QuestionType.part3",
@@ -1695,11 +1723,14 @@
             "answer": [
               "She is Angela’s sister",
               "She is Christine’s cousin",
-              "She is Angela’s cousin"],
+              "She is Angela’s cousin"
+            ],
             "correctAnswer": 2,
             "imageAsset": "http://langtest.tk/images/step2/imagereading/rpart2/1q9101112.png",
             "difficultLevel": 3,
-            "comeWith": ["r_s2_b1_u1_p2_9", "r_s2_b1_u1_p2_10", "r_s2_b1_u1_p2_11", "r_s2_b1_u1_p2_12"]
+            "comeWith": [
+              "r_s2_b1_u1_p2_9", "r_s2_b1_u1_p2_10", "r_s2_b1_u1_p2_11", "r_s2_b1_u1_p2_12"
+            ]
           }, {
             "id": "r_s2_b1_u1_p2_10",
             "type": "QuestionType.part3",
@@ -1707,11 +1738,14 @@
             "answer": [
               "She came to visit Christine",
               "She became a student there",
-              "She wanted to help Angela with her science project"],
+              "She wanted to help Angela with her science project"
+            ],
             "correctAnswer": 1,
             "imageAsset": "http://langtest.tk/images/step2/imagereading/rpart2/1q9101112.png",
             "difficultLevel": 3,
-            "comeWith": ["r_s2_b1_u1_p2_9", "r_s2_b1_u1_p2_10", "r_s2_b1_u1_p2_11", "r_s2_b1_u1_p2_12"]
+            "comeWith": [
+              "r_s2_b1_u1_p2_9", "r_s2_b1_u1_p2_10", "r_s2_b1_u1_p2_11", "r_s2_b1_u1_p2_12"
+            ]
           }, {
             "id": "r_s2_b1_u1_p2_11",
             "type": "QuestionType.part3",
@@ -1719,11 +1753,14 @@
             "answer": [
               "She had to take care of her baby sister after school",
               "She had to help her mom move to their new home",
-              "She thought Angela didn’t want to be friends with her"],
+              "She thought Angela didn’t want to be friends with her"
+            ],
             "correctAnswer": 2,
             "imageAsset": "http://langtest.tk/images/step2/imagereading/rpart2/1q9101112.png",
             "difficultLevel": 3,
-            "comeWith": ["r_s2_b1_u1_p2_9", "r_s2_b1_u1_p2_10", "r_s2_b1_u1_p2_11", "r_s2_b1_u1_p2_12"]
+            "comeWith": [
+              "r_s2_b1_u1_p2_9", "r_s2_b1_u1_p2_10", "r_s2_b1_u1_p2_11", "r_s2_b1_u1_p2_12"
+            ]
           }, {
             "id": "r_s2_b1_u1_p2_12",
             "type": "QuestionType.part3",
@@ -1731,11 +1768,14 @@
             "answer": [
               "A necklace",
               "A jewelry box",
-              "A book"],
+              "A book"
+            ],
             "correctAnswer": 1,
             "imageAsset": "http://langtest.tk/images/step2/imagereading/rpart2/1q9101112.png",
             "difficultLevel": 3,
-            "comeWith": ["r_s2_b1_u1_p2_9", "r_s2_b1_u1_p2_10", "r_s2_b1_u1_p2_11", "r_s2_b1_u1_p2_12"]
+            "comeWith": [
+              "r_s2_b1_u1_p2_9", "r_s2_b1_u1_p2_10", "r_s2_b1_u1_p2_11", "r_s2_b1_u1_p2_12"
+            ]
           }
         ]
       }
