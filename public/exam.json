@@ -17,7 +17,7 @@
               "C"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/1_1.png",
+            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/1q1.png",
             "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/002.mp3",
             "difficultLevel": 3
           },
@@ -31,7 +31,7 @@
               "C"
             ],
             "correctAnswer": 2,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/1_2.png",
+            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/1q2.png",
             "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/003.mp3",
             "difficultLevel": 3
           },
@@ -45,7 +45,7 @@
               "C"
             ],
             "correctAnswer": 0,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/1_3.png",
+            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/1q3.png",
             "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/004.mp3",
             "difficultLevel": 3
           },
@@ -59,7 +59,7 @@
               "C"
             ],
             "correctAnswer": 0,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/2_1.png",
+            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/2q1.png",
             "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/028.mp3",
             "difficultLevel": 3
           },
@@ -73,7 +73,7 @@
               "C"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/2_2.png",
+            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/2q2.png",
             "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/004.mp3",
             "difficultLevel": 3
           },
@@ -87,7 +87,7 @@
               "C"
             ],
             "correctAnswer": 2,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/2_3.png",
+            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/2q3.png",
             "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/030.mp3",
             "difficultLevel": 3
           },
@@ -101,7 +101,7 @@
               "C"
             ],
             "correctAnswer": 0,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/1_1.png",
+            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/1q1.png",
             "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/005.mp3",
             "difficultLevel": 3
           },
@@ -115,7 +115,7 @@
               "C"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/1_2.png",
+            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/1q2.png",
             "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/006.mp3",
             "difficultLevel": 3
           },
@@ -129,7 +129,7 @@
               "C"
             ],
             "correctAnswer": 2,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/1_3.png",
+            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/1q3.png",
             "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/007.mp3",
             "difficultLevel": 3
           },
@@ -143,7 +143,7 @@
               "C"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/2_1.png",
+            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/2q1.png",
             "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/031.mp3",
             "difficultLevel": 3
           },
@@ -157,7 +157,7 @@
               "C"
             ],
             "correctAnswer": 2,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/2_2.png",
+            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/2q2.png",
             "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/032.mp3",
             "difficultLevel": 3
           },
@@ -171,7 +171,7 @@
               "C"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/2_2.png",
+            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/2q2.png",
             "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/033.mp3",
             "difficultLevel": 3
           },
