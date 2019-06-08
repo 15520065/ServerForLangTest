@@ -17,8 +17,8 @@
               "C"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/1q1.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/002.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part1/1q1.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/002.mp3",
             "difficultLevel": 3
           },
           {
@@ -31,8 +31,8 @@
               "C"
             ],
             "correctAnswer": 2,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/1q2.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/003.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part1/1q2.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/003.mp3",
             "difficultLevel": 3
           },
           {
@@ -45,8 +45,8 @@
               "C"
             ],
             "correctAnswer": 0,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/1q3.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/004.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part1/1q3.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/004.mp3",
             "difficultLevel": 3
           },
           {
@@ -59,8 +59,8 @@
               "C"
             ],
             "correctAnswer": 0,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/2q1.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/028.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part1/2q1.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/028.mp3",
             "difficultLevel": 3
           },
           {
@@ -73,8 +73,8 @@
               "C"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/2q2.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/004.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part1/2q2.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/004.mp3",
             "difficultLevel": 3
           },
           {
@@ -87,8 +87,8 @@
               "C"
             ],
             "correctAnswer": 2,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/2q3.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/030.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part1/2q3.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/030.mp3",
             "difficultLevel": 3
           },
           {
@@ -101,8 +101,8 @@
               "C"
             ],
             "correctAnswer": 0,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/1q1.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/005.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part2/1q1.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/005.mp3",
             "difficultLevel": 3
           },
           {
@@ -115,8 +115,8 @@
               "C"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/1q2.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/006.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part2/1q2.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/006.mp3",
             "difficultLevel": 3
           },
           {
@@ -129,8 +129,8 @@
               "C"
             ],
             "correctAnswer": 2,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/1q3.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/007.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part2/1q3.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/007.mp3",
             "difficultLevel": 3
           },
           {
@@ -143,8 +143,8 @@
               "C"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/2q1.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/031.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part2/2q1.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/031.mp3",
             "difficultLevel": 3
           },
           {
@@ -157,8 +157,8 @@
               "C"
             ],
             "correctAnswer": 2,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/2q2.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/032.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part2/2q2.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/032.mp3",
             "difficultLevel": 3
           },
           {
@@ -171,8 +171,8 @@
               "C"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/2q2.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/033.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part2/2q2.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/033.mp3",
             "difficultLevel": 3
           },
           {
@@ -185,7 +185,7 @@
               "C"
             ],
             "correctAnswer": 1,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/008.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/008.mp3",
             "difficultLevel": 3
           },
           {
@@ -198,7 +198,7 @@
               "C"
             ],
             "correctAnswer": 1,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/009.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/009.mp3",
             "difficultLevel": 3
           },
           {
@@ -211,7 +211,7 @@
               "C"
             ],
             "correctAnswer": 0,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/010.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/010.mp3",
             "difficultLevel": 3
           },
           {
@@ -224,7 +224,7 @@
               "C"
             ],
             "correctAnswer": 2,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/034.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/034.mp3",
             "difficultLevel": 3
           },
           {
@@ -237,7 +237,7 @@
               "C"
             ],
             "correctAnswer": 0,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/035.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/035.mp3",
             "difficultLevel": 3
           },
           {
@@ -250,7 +250,7 @@
               "C"
             ],
             "correctAnswer": 1,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/036.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/036.mp3",
             "difficultLevel": 3
           },
           {
@@ -263,7 +263,7 @@
               "Buy new toys"
             ],
             "correctAnswer": 1,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/011.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/011.mp3",
             "difficultLevel": 3
           },
           {
@@ -276,7 +276,7 @@
               "A little brother"
             ],
             "correctAnswer": 1,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/012.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/012.mp3",
             "difficultLevel": 3
           },
           {
@@ -289,7 +289,7 @@
               "Cut the hairdresser’s hair"
             ],
             "correctAnswer": 0,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/037.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/037.mp3",
             "difficultLevel": 3
           },
           {
@@ -302,7 +302,7 @@
               "The boy’s friend"
             ],
             "correctAnswer": 1,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/038.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/038.mp3",
             "difficultLevel": 3
           },
           {
@@ -315,7 +315,7 @@
               "To tell Maya that she will be home late"
             ],
             "correctAnswer": 2,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/013.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/013.mp3",
             "difficultLevel": 3
           },
           {
@@ -328,7 +328,7 @@
               "His grandmother"
             ],
             "correctAnswer": 2,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/014.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/014.mp3",
             "difficultLevel": 3
           },
           {
@@ -341,7 +341,7 @@
               "To ask Robert to double-check James’s arrival time"
             ],
             "correctAnswer": 1,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/039.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/039.mp3",
             "difficultLevel": 3
           },
           {
@@ -354,7 +354,7 @@
               "Her family"
             ],
             "correctAnswer": 2,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/040.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/040.mp3",
             "difficultLevel": 3
           },
           {
@@ -365,8 +365,8 @@
               "A", "B", "C"
             ],
             "correctAnswer": 0,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/3q1.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/035.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part1/3q1.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/035.mp3",
             "difficultLevel": 3
           }, {
             "id": "step1_1_054",
@@ -376,8 +376,8 @@
               "A", "B", "C"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/3q2.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/054.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part1/3q2.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/054.mp3",
             "difficultLevel": 3
           }, {
             "id": "step1_1_056",
@@ -387,8 +387,8 @@
               "A", "B", "C"
             ],
             "correctAnswer": 2,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/3q3.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/056.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part1/3q3.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/056.mp3",
             "difficultLevel": 3
           },
           {
@@ -399,8 +399,8 @@
               "A", "B", "C"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/3q1.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/057.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part2/3q1.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/057.mp3",
             "difficultLevel": 3
           }, {
             "id": "step1_1_058",
@@ -410,8 +410,8 @@
               "A", "B", "C"
             ],
             "correctAnswer": 2,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/3q2.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/058.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part2/3q2.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/058.mp3",
             "difficultLevel": 3
           }, {
             "id": "step1_1_059",
@@ -421,8 +421,8 @@
               "A", "B", "C"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/3q3.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/059.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part2/3q3.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/059.mp3",
             "difficultLevel": 3
           },
           {
@@ -433,7 +433,7 @@
               "A", "B", "C"
             ],
             "correctAnswer": 2,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/060.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/060.mp3",
             "difficultLevel": 3
           }, {
             "id": "step1_1_061",
@@ -443,7 +443,7 @@
               "A", "B", "C"
             ],
             "correctAnswer": 0,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/061.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/061.mp3",
             "difficultLevel": 3
           }, {
             "id": "step1_1_062",
@@ -453,7 +453,7 @@
               "A", "B", "C"
             ],
             "correctAnswer": 1,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/062.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/062.mp3",
             "difficultLevel": 3
           },
           {
@@ -466,7 +466,7 @@
               "Write a book"
             ],
             "correctAnswer": 0,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/063.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/063.mp3",
             "difficultLevel": 3
           }, {
             "id": "step1_1_064",
@@ -478,7 +478,7 @@
               "Return the book"
             ],
             "correctAnswer": 1,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/064.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/064.mp3",
             "difficultLevel": 3
           },
           {
@@ -491,7 +491,7 @@
               "To tell Jack to read the book"
             ],
             "correctAnswer": 1,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/065.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/065.mp3",
             "difficultLevel": 3
           }, {
             "id": "step1_1_066",
@@ -503,7 +503,7 @@
               "Working in the media room "
             ],
             "correctAnswer": 2,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/066.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/066.mp3",
             "difficultLevel": 3
           }
         ],
@@ -521,8 +521,8 @@
               "C"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/1_1.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/002.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part1/1q1.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/002.mp3",
             "difficultLevel": 3
           }
         ],
@@ -546,8 +546,8 @@
               "C"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/1_1.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/002.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part1/1q1.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/002.mp3",
             "difficultLevel": 3
           },
           {
@@ -560,8 +560,8 @@
               "C"
             ],
             "correctAnswer": 2,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/1_2.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/003.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part1/1q2.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/003.mp3",
             "difficultLevel": 3
           },
           {
@@ -574,8 +574,8 @@
               "C"
             ],
             "correctAnswer": 0,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/1_3.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/004.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part1/1q3.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/004.mp3",
             "difficultLevel": 3
           },
           {
@@ -588,8 +588,8 @@
               "C"
             ],
             "correctAnswer": 0,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/2_1.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/028.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part1/2q1.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/028.mp3",
             "difficultLevel": 3
           },
           {
@@ -602,8 +602,8 @@
               "C"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/2_2.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/004.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part1/2q2.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/004.mp3",
             "difficultLevel": 3
           },
           {
@@ -616,8 +616,8 @@
               "C"
             ],
             "correctAnswer": 2,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part1/2_3.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/030.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part1/2q3.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/030.mp3",
             "difficultLevel": 3
           },
           {
@@ -630,8 +630,8 @@
               "C"
             ],
             "correctAnswer": 0,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/1_1.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/005.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part2/1q1.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/005.mp3",
             "difficultLevel": 3
           },
           {
@@ -644,8 +644,8 @@
               "C"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/1_2.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/006.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part2/1q2.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/006.mp3",
             "difficultLevel": 3
           },
           {
@@ -658,8 +658,8 @@
               "C"
             ],
             "correctAnswer": 2,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/1_3.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/007.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part2/1q3.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/007.mp3",
             "difficultLevel": 3
           },
           {
@@ -672,8 +672,8 @@
               "C"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/2_1.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/031.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part2/2q1.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/031.mp3",
             "difficultLevel": 3
           },
           {
@@ -686,8 +686,8 @@
               "C"
             ],
             "correctAnswer": 2,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/2_2.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/032.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part2/2q2.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/032.mp3",
             "difficultLevel": 3
           },
           {
@@ -700,8 +700,8 @@
               "C"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagelistening/book1part2/2_2.png",
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/033.mp3",
+            "imageAsset": "https://langtest.tk/images/step1/imagelistening/book1part2/2q2.png",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/033.mp3",
             "difficultLevel": 3
           },
           {
@@ -714,7 +714,7 @@
               "C"
             ],
             "correctAnswer": 1,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/008.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/008.mp3",
             "difficultLevel": 3
           },
           {
@@ -727,7 +727,7 @@
               "C"
             ],
             "correctAnswer": 1,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/009.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/009.mp3",
             "difficultLevel": 3
           },
           {
@@ -740,7 +740,7 @@
               "C"
             ],
             "correctAnswer": 0,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/010.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/010.mp3",
             "difficultLevel": 3
           },
           {
@@ -753,7 +753,7 @@
               "C"
             ],
             "correctAnswer": 2,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/034.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/034.mp3",
             "difficultLevel": 3
           },
           {
@@ -766,7 +766,7 @@
               "C"
             ],
             "correctAnswer": 0,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/035.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/035.mp3",
             "difficultLevel": 3
           },
           {
@@ -779,7 +779,7 @@
               "C"
             ],
             "correctAnswer": 1,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/036.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/036.mp3",
             "difficultLevel": 3
           },
           {
@@ -792,7 +792,7 @@
               "Buy new toys"
             ],
             "correctAnswer": 1,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/011.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/011.mp3",
             "difficultLevel": 3
           },
           {
@@ -805,7 +805,7 @@
               "A little brother"
             ],
             "correctAnswer": 1,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/012.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/012.mp3",
             "difficultLevel": 3
           },
           {
@@ -818,7 +818,7 @@
               "Cut the hairdresser’s hair"
             ],
             "correctAnswer": 0,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/037.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/037.mp3",
             "difficultLevel": 3
           },
           {
@@ -831,7 +831,7 @@
               "The boy’s friend"
             ],
             "correctAnswer": 1,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/038.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/038.mp3",
             "difficultLevel": 3
           },
           {
@@ -844,7 +844,7 @@
               "To tell Maya that she will be home late"
             ],
             "correctAnswer": 2,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/013.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/013.mp3",
             "difficultLevel": 3
           },
           {
@@ -857,7 +857,7 @@
               "His grandmother"
             ],
             "correctAnswer": 2,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/014.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/014.mp3",
             "difficultLevel": 3
           },
           {
@@ -870,7 +870,7 @@
               "To ask Robert to double-check James’s arrival time"
             ],
             "correctAnswer": 1,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/039.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/039.mp3",
             "difficultLevel": 3
           },
           {
@@ -883,7 +883,7 @@
               "Her family"
             ],
             "correctAnswer": 2,
-            "audioAsset": "http://langtest.tk/audio/step1/audiostep1book1/040.mp3",
+            "audioAsset": "https://langtest.tk/audio/step1/audiostep1book1/040.mp3",
             "difficultLevel": 3
           }
         ],
@@ -896,7 +896,7 @@
             "Grandfather",
             "Aunt"],
           "correctAnswer": 1,
-          "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart1/1q1.png",
+          "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart1/1q1.png",
           "difficultLevel": 3
         }, {
           "id": "r_s1_b1_u1_p1_2",
@@ -907,7 +907,7 @@
             "Younger brother",
             "Older brother"],
           "correctAnswer": 0,
-          "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart1/1q2.png",
+          "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart1/1q2.png",
           "difficultLevel": 3
         }, {
           "id": "r_s1_b1_u1_p1_3",
@@ -918,7 +918,7 @@
             "Separated",
             "Married"],
           "correctAnswer": 2,
-          "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart1/1q3.png",
+          "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart1/1q3.png",
           "difficultLevel": 3
         }, {
           "id": "r_s1_b1_u1_p1_4",
@@ -929,7 +929,7 @@
             "Friends",
             "Co-workers"],
           "correctAnswer": 0,
-          "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart1/1q4.png",
+          "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart1/1q4.png",
           "difficultLevel": 3
         }, {
           "id": "r_s1_b1_u1_p1_5",
@@ -940,7 +940,7 @@
             "Sisters",
             "Brothers "],
           "correctAnswer": 1,
-          "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart1/1q5.png",
+          "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart1/1q5.png",
           "difficultLevel": 3
         }, {
           "id": "r_s1_b1_u1_p1_6",
@@ -951,7 +951,7 @@
             "He is my little brother.",
             "He is my big brother.  "],
           "correctAnswer": 0,
-          "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart1/1q6.png",
+          "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart1/1q6.png",
           "difficultLevel": 3
         }, {
           "id": "r_s1_b1_u1_p1_7",
@@ -962,7 +962,7 @@
             "There are six people in my family.",
             "There are four people in my family"],
           "correctAnswer": 0,
-          "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart1/1q7.png",
+          "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart1/1q7.png",
           "difficultLevel": 3
         }, {
           "id": "r_s1_b1_u1_p1_8",
@@ -973,7 +973,7 @@
             "A boy is with his grandmother.",
             "A boy is with his dad"],
           "correctAnswer": 1,
-          "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart1/1q8.png",
+          "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart1/1q8.png",
           "difficultLevel": 3
         }, {
           "id": "r_s1_b1_u1_p1_9",
@@ -984,7 +984,7 @@
             "An old man is looking at his granddaughter",
             "An old woman is talking to her grandson"],
           "correctAnswer": 0,
-          "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart1/1q9.png",
+          "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart1/1q9.png",
           "difficultLevel": 3
         },
           {
@@ -996,7 +996,7 @@
               "Hand",
               "Feed"],
             "correctAnswer": 0,
-            "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart1/2q1.png",
+            "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart1/2q1.png",
             "difficultLevel": 3
           }, {
             "id": "r_s1_b1_u2_p1_2",
@@ -1007,7 +1007,7 @@
               "Glasses",
               "Glassy"],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart1/2q2.png",
+            "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart1/2q2.png",
             "difficultLevel": 3
           }, {
             "id": "r_s1_b1_u2_p1_3",
@@ -1018,7 +1018,7 @@
               "Pigtail",
               "Ponytail"],
             "correctAnswer": 2,
-            "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart1/2q3.png",
+            "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart1/2q3.png",
             "difficultLevel": 3
           }, {
             "id": "r_s1_b1_u2_p1_4",
@@ -1029,7 +1029,7 @@
               "Tall",
               "Small"],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart1/2q4.png",
+            "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart1/2q4.png",
             "difficultLevel": 3
           }, {
             "id": "r_s1_b1_u2_p1_5",
@@ -1040,7 +1040,7 @@
               "Mustache",
               "Curly hair"],
             "correctAnswer": 2,
-            "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart1/2q5.png",
+            "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart1/2q5.png",
             "difficultLevel": 3
           }, {
             "id": "r_s1_b1_u2_p1_6",
@@ -1051,7 +1051,7 @@
               "She has long hair",
               "She has a ponytail"],
             "correctAnswer": 0,
-            "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart1/2q6.png",
+            "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart1/2q6.png",
             "difficultLevel": 3
           }, {
             "id": "r_s1_b1_u2_p1_7",
@@ -1062,7 +1062,7 @@
               "He has a beard",
               "He has a mustache"],
             "correctAnswer": 2,
-            "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart1/2q7.png",
+            "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart1/2q7.png",
             "difficultLevel": 3
           }, {
             "id": "r_s1_b1_u2_p1_8",
@@ -1073,7 +1073,7 @@
               "My grandmother has long blond hair.",
               "My grandfather has short white hair."],
             "correctAnswer": 2,
-            "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart1/2q8.png",
+            "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart1/2q8.png",
             "difficultLevel": 3
           }, {
             "id": "r_s1_b1_u2_p1_9",
@@ -1084,7 +1084,7 @@
               "My sister wears glasses.",
               "My sister has a glass."],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart1/2q9.png",
+            "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart1/2q9.png",
             "difficultLevel": 3
           },
           {
@@ -1180,7 +1180,7 @@
               "Three"
             ],
             "correctAnswer": 0,
-            "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart3/1q123.png",
+            "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart3/1q123.png",
             "difficultLevel": 3,
             "comeWith": [
               "r_s1_b1_u1_p3_1", "r_s1_b1_u1_p3_2", "r_s1_b1_u1_p3_3"
@@ -1195,7 +1195,7 @@
               "Listening to music"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart3/1q123.png",
+            "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart3/1q123.png",
             "difficultLevel": 3,
             "comeWith": [
               "r_s1_b1_u1_p3_1", "r_s1_b1_u1_p3_2", "r_s1_b1_u1_p3_3"
@@ -1210,7 +1210,7 @@
               "She enjoys eating out"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart3/1q123.png",
+            "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart3/1q123.png",
             "difficultLevel": 3,
             "comeWith": [
               "r_s1_b1_u1_p3_1", "r_s1_b1_u1_p3_2", "r_s1_b1_u1_p3_3"
@@ -1225,7 +1225,7 @@
               "He is going fishing this weekend"
             ],
             "correctAnswer": 0,
-            "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart3/1q45.png",
+            "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart3/1q45.png",
             "difficultLevel": 3,
             "comeWith": [
               "r_s1_b1_u1_p3_4", "r_s1_b1_u1_p3_5"
@@ -1240,7 +1240,7 @@
               "He caught some fish"
             ],
             "correctAnswer": 2,
-            "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart3/1q45.png",
+            "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart3/1q45.png",
             "difficultLevel": 3,
             "comeWith": [
               "r_s1_b1_u1_p3_4", "r_s1_b1_u1_p3_5"
@@ -1257,7 +1257,7 @@
               "5 feet"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart3/2q123.png",
+            "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart3/2q123.png",
             "difficultLevel": 3,
             "comeWith": [
               "r_s1_b1_u2_p3_1", "r_s1_b1_u2_p3_2", "r_s1_b1_u2_p3_3"
@@ -1272,7 +1272,7 @@
               "Blond"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart3/2q123.png",
+            "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart3/2q123.png",
             "difficultLevel": 3,
             "comeWith": [
               "r_s1_b1_u2_p3_1", "r_s1_b1_u2_p3_2", "r_s1_b1_u2_p3_3"
@@ -1287,7 +1287,7 @@
               "Wavy"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart3/2q123.png",
+            "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart3/2q123.png",
             "difficultLevel": 3,
             "comeWith": [
               "r_s1_b1_u2_p3_1", "r_s1_b1_u2_p3_2", "r_s1_b1_u2_p3_3"
@@ -1302,7 +1302,7 @@
               "She called a hair salon"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart3/2q45.png",
+            "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart3/2q45.png",
             "difficultLevel": 3,
             "comeWith": [
               "r_s1_b1_u2_p3_4", "r_s1_b1_u2_p3_5"
@@ -1317,7 +1317,7 @@
               "Meet Lucy"
             ],
             "correctAnswer": 2,
-            "imageAsset": "http://langtest.tk/images/step1/imagereading/rpart3/2q45.png",
+            "imageAsset": "https://langtest.tk/images/step1/imagereading/rpart3/2q45.png",
             "difficultLevel": 3,
             "comeWith": [
               "r_s1_b1_u2_p3_4", "r_s1_b1_u2_p3_5"
@@ -1338,7 +1338,7 @@
               "Call his mom"
             ],
             "correctAnswer": 2,
-            "audioAsset": "http://langtest.tk/audio/step2/audiostep2book1/05.mp3",
+            "audioAsset": "https://langtest.tk/audio/step2/audiostep2book1/05.mp3",
             "difficultLevel": 3
           }, {
             "id": "step2_1_006",
@@ -1350,7 +1350,7 @@
               "Play basketball together"
             ],
             "correctAnswer": 2,
-            "audioAsset": "http://langtest.tk/audio/step2/audiostep2book1/06.mp3",
+            "audioAsset": "https://langtest.tk/audio/step2/audiostep2book1/06.mp3",
             "difficultLevel": 3
           },
 
@@ -1364,7 +1364,7 @@
               "Call the man’s family"
             ],
             "correctAnswer": 1,
-            "audioAsset": "http://langtest.tk/audio/step2/audiostep2book1/28.mp3",
+            "audioAsset": "https://langtest.tk/audio/step2/audiostep2book1/28.mp3",
             "difficultLevel": 3
           }, {
             "id": "step2_1_029",
@@ -1376,7 +1376,7 @@
               "The man who sold the house to the woman"
             ],
             "correctAnswer": 2,
-            "audioAsset": "http://langtest.tk/audio/step2/audiostep2book1/29.mp3",
+            "audioAsset": "https://langtest.tk/audio/step2/audiostep2book1/29.mp3",
             "difficultLevel": 3
           },
           {
@@ -1388,7 +1388,7 @@
               "To talk to Jerry about an English test",
               "To borrow an English textbook from Jerry"],
             "correctAnswer": 0,
-            "audioAsset": "http://langtest.tk/audio/step2/audiostep2book1/07.mp3",
+            "audioAsset": "https://langtest.tk/audio/step2/audiostep2book1/07.mp3",
             "difficultLevel": 3
           }, {
             "id": "step2_1_008",
@@ -1399,7 +1399,7 @@
               "To tell Robert about the P.E. class schedule",
               "To apologize to Robert for punching him"],
             "correctAnswer": 2,
-            "audioAsset": "http://langtest.tk/audio/step2/audiostep2book1/08.mp3",
+            "audioAsset": "https://langtest.tk/audio/step2/audiostep2book1/08.mp3",
             "difficultLevel": 3
           },
 
@@ -1412,7 +1412,7 @@
               "To ask Lisa to have lunch by herself",
               "To ask Lisa to delay his first appointment"],
             "correctAnswer": 2,
-            "audioAsset": "http://langtest.tk/audio/step2/audiostep2book1/30.mp3",
+            "audioAsset": "https://langtest.tk/audio/step2/audiostep2book1/30.mp3",
             "difficultLevel": 3
           }, {
             "id": "step2_1_031",
@@ -1423,7 +1423,7 @@
               "Firefighters",
               "Sanitation workers"],
             "correctAnswer": 1,
-            "audioAsset": "http://langtest.tk/audio/step2/audiostep2book1/31.mp3",
+            "audioAsset": "https://langtest.tk/audio/step2/audiostep2book1/31.mp3",
             "difficultLevel": 3
           },
           {
@@ -1435,7 +1435,7 @@
               "Bread",
               "A bag of apples"],
             "correctAnswer": 2,
-            "audioAsset": "http://langtest.tk/audio/step2/audiostep2book1/09.mp3",
+            "audioAsset": "https://langtest.tk/audio/step2/audiostep2book1/09.mp3",
             "difficultLevel": 3,
             "comeWith": ["step2_4_1_009", "step2_4_2_009"]
           }, {
@@ -1447,7 +1447,7 @@
               "To buy some stuff for baking",
               "To get a bag of oranges"],
             "correctAnswer": 1,
-            "audioAsset": "http://langtest.tk/audio/step2/audiostep2book1/09.mp3",
+            "audioAsset": "https://langtest.tk/audio/step2/audiostep2book1/09.mp3",
             "difficultLevel": 3,
             "comeWith": ["step2_4_1_009", "step2_4_2_009"]
           }, {
@@ -1459,7 +1459,7 @@
               "Friendship",
               "Butterflies"],
             "correctAnswer": 1,
-            "audioAsset": "http://langtest.tk/audio/step2/audiostep2book1/12.mp3",
+            "audioAsset": "https://langtest.tk/audio/step2/audiostep2book1/12.mp3",
             "difficultLevel": 3,
             "comeWith": ["step2_4_3_012", "step2_4_4_012", "step2_4_5_012"]
           }, {
@@ -1471,7 +1471,7 @@
               "Strangers",
               "Your neighbors"],
             "correctAnswer": 1,
-            "audioAsset": "http://langtest.tk/audio/step2/audiostep2book1/12.mp3",
+            "audioAsset": "https://langtest.tk/audio/step2/audiostep2book1/12.mp3",
             "difficultLevel": 3,
             "comeWith": ["step2_4_3_012", "step2_4_4_012", "step2_4_5_012"]
           }, {
@@ -1483,7 +1483,7 @@
               "Win all arguments",
               "Respect others first"],
             "correctAnswer": 2,
-            "audioAsset": "http://langtest.tk/audio/step2/audiostep2book1/12.mp3",
+            "audioAsset": "https://langtest.tk/audio/step2/audiostep2book1/12.mp3",
             "difficultLevel": 3,
             "comeWith": ["step2_4_3_012", "step2_4_4_012", "step2_4_5_012"]
           },
@@ -1497,7 +1497,7 @@
               "Mrs. Brown`s neighbor",
               "An apartment manager"],
             "correctAnswer": 1,
-            "audioAsset": "http://langtest.tk/audio/step2/audiostep2book1/32.mp3",
+            "audioAsset": "https://langtest.tk/audio/step2/audiostep2book1/32.mp3",
             "difficultLevel": 3,
             "comeWith": ["step2_4_1_032", "step2_4_2_032"]
           }, {
@@ -1509,7 +1509,7 @@
               "How to recycle",
               "Where to buy plastic bags"],
             "correctAnswer": 1,
-            "audioAsset": "http://langtest.tk/audio/step2/audiostep2book1/32.mp3",
+            "audioAsset": "https://langtest.tk/audio/step2/audiostep2book1/32.mp3",
             "difficultLevel": 3,
             "comeWith": ["step2_4_1_032", "step2_4_2_032"]
           }, {
@@ -1521,7 +1521,7 @@
               "A school fundraiser",
               "Many jobs around our town"],
             "correctAnswer": 0,
-            "audioAsset": "http://langtest.tk/audio/step2/audiostep2book1/35.mp3",
+            "audioAsset": "https://langtest.tk/audio/step2/audiostep2book1/35.mp3",
             "difficultLevel": 3,
             "comeWith": ["step2_4_3_035", "step2_4_4_035", "step2_4_5_035"]
           }, {
@@ -1533,7 +1533,7 @@
               "Selfish people",
               "Only rich people"],
             "correctAnswer": 0,
-            "audioAsset": "http://langtest.tk/audio/step2/audiostep2book1/35.mp3",
+            "audioAsset": "https://langtest.tk/audio/step2/audiostep2book1/35.mp3",
             "difficultLevel": 3,
             "comeWith": ["step2_4_3_035", "step2_4_4_035", "step2_4_5_035"]
           }, {
@@ -1545,7 +1545,7 @@
               "How to make money without any skills",
               "The value of helping others"],
             "correctAnswer": 2,
-            "audioAsset": "http://langtest.tk/audio/step2/audiostep2book1/35.mp3",
+            "audioAsset": "https://langtest.tk/audio/step2/audiostep2book1/35.mp3",
             "difficultLevel": 3,
             "comeWith": ["step2_4_3_035", "step2_4_4_035", "step2_4_5_035"]
           }
@@ -1606,7 +1606,7 @@
               "Her best sister"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step2/imagereading/rpart2/1q123.png",
+            "imageAsset": "https://langtest.tk/images/step2/imagereading/rpart2/1q123.png",
             "difficultLevel": 3,
             "comeWith": [
               "r_s2_b1_u1_p2_1", "r_s2_b1_u1_p2_2", "r_s2_b1_u1_p2_3"
@@ -1621,7 +1621,7 @@
               "That she only thinks about herself"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step2/imagereading/rpart2/1q123.png",
+            "imageAsset": "https://langtest.tk/images/step2/imagereading/rpart2/1q123.png",
             "difficultLevel": 3,
             "comeWith": [
               "r_s2_b1_u1_p2_1", "r_s2_b1_u1_p2_2", "r_s2_b1_u1_p2_3"
@@ -1636,7 +1636,7 @@
               "Strawberry milk"
             ],
             "correctAnswer": 2,
-            "imageAsset": "http://langtest.tk/images/step2/imagereading/rpart2/1q123.png",
+            "imageAsset": "https://langtest.tk/images/step2/imagereading/rpart2/1q123.png",
             "difficultLevel": 3,
             "comeWith": [
               "r_s2_b1_u1_p2_1", "r_s2_b1_u1_p2_2", "r_s2_b1_u1_p2_3"
@@ -1651,7 +1651,7 @@
               "He doesn’t know how to play basketball"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step2/imagereading/rpart2/1q45.png",
+            "imageAsset": "https://langtest.tk/images/step2/imagereading/rpart2/1q45.png",
             "difficultLevel": 3,
             "comeWith": [
               "r_s2_b1_u1_p2_4", "r_s2_b1_u1_p2_5"
@@ -1666,7 +1666,7 @@
               "To tell him that he is moving, too"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step2/imagereading/rpart2/1q45.png",
+            "imageAsset": "https://langtest.tk/images/step2/imagereading/rpart2/1q45.png",
             "difficultLevel": 3,
             "comeWith": [
               "r_s2_b1_u1_p2_4", "r_s2_b1_u1_p2_5"
@@ -1681,7 +1681,7 @@
               "Having friends"
             ],
             "correctAnswer": 2,
-            "imageAsset": "http://langtest.tk/images/step2/imagereading/rpart2/1q678.png",
+            "imageAsset": "https://langtest.tk/images/step2/imagereading/rpart2/1q678.png",
             "difficultLevel": 3,
             "comeWith": [
               "r_s2_b1_u1_p2_6", "r_s2_b1_u1_p2_7", "r_s2_b1_u1_p2_8"
@@ -1696,7 +1696,7 @@
               "Stress"
             ],
             "correctAnswer": 2,
-            "imageAsset": "http://langtest.tk/images/step2/imagereading/rpart2/1q678.png",
+            "imageAsset": "https://langtest.tk/images/step2/imagereading/rpart2/1q678.png",
             "difficultLevel": 3,
             "comeWith": [
               "r_s2_b1_u1_p2_6", "r_s2_b1_u1_p2_7", "r_s2_b1_u1_p2_8"
@@ -1711,7 +1711,7 @@
               "It makes our lives more difficult"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step2/imagereading/rpart2/1q678.png",
+            "imageAsset": "https://langtest.tk/images/step2/imagereading/rpart2/1q678.png",
             "difficultLevel": 3,
             "comeWith": [
               "r_s2_b1_u1_p2_6", "r_s2_b1_u1_p2_7", "r_s2_b1_u1_p2_8"
@@ -1726,7 +1726,7 @@
               "She is Angela’s cousin"
             ],
             "correctAnswer": 2,
-            "imageAsset": "http://langtest.tk/images/step2/imagereading/rpart2/1q9101112.png",
+            "imageAsset": "https://langtest.tk/images/step2/imagereading/rpart2/1q9101112.png",
             "difficultLevel": 3,
             "comeWith": [
               "r_s2_b1_u1_p2_9", "r_s2_b1_u1_p2_10", "r_s2_b1_u1_p2_11", "r_s2_b1_u1_p2_12"
@@ -1741,7 +1741,7 @@
               "She wanted to help Angela with her science project"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step2/imagereading/rpart2/1q9101112.png",
+            "imageAsset": "https://langtest.tk/images/step2/imagereading/rpart2/1q9101112.png",
             "difficultLevel": 3,
             "comeWith": [
               "r_s2_b1_u1_p2_9", "r_s2_b1_u1_p2_10", "r_s2_b1_u1_p2_11", "r_s2_b1_u1_p2_12"
@@ -1756,7 +1756,7 @@
               "She thought Angela didn’t want to be friends with her"
             ],
             "correctAnswer": 2,
-            "imageAsset": "http://langtest.tk/images/step2/imagereading/rpart2/1q9101112.png",
+            "imageAsset": "https://langtest.tk/images/step2/imagereading/rpart2/1q9101112.png",
             "difficultLevel": 3,
             "comeWith": [
               "r_s2_b1_u1_p2_9", "r_s2_b1_u1_p2_10", "r_s2_b1_u1_p2_11", "r_s2_b1_u1_p2_12"
@@ -1771,7 +1771,7 @@
               "A book"
             ],
             "correctAnswer": 1,
-            "imageAsset": "http://langtest.tk/images/step2/imagereading/rpart2/1q9101112.png",
+            "imageAsset": "https://langtest.tk/images/step2/imagereading/rpart2/1q9101112.png",
             "difficultLevel": 3,
             "comeWith": [
               "r_s2_b1_u1_p2_9", "r_s2_b1_u1_p2_10", "r_s2_b1_u1_p2_11", "r_s2_b1_u1_p2_12"
