@@ -31,7 +31,7 @@ const topicFlatListData = [
         'id':'t3',
         'name': 'Warranties',
         'count': '12',
-        'img': 'https://www.affordablewindowstexas.com/wp-content/uploads/2017/04/warranty.png'
+        'img': 'https://www.kennedyandperkins.com/wp-content/uploads/2013/06/warranty.jpg'
     },
     {
         'id':'t4',
@@ -43,7 +43,7 @@ const topicFlatListData = [
         'id':'t5',
         'name': 'Conferences',
         'count': '12',
-        'img': 'https://www.affordablewindowstexas.com/wp-content/uploads/2017/04/warranty.png'
+        'img': 'https://www.kennedyandperkins.com/wp-content/uploads/2013/06/warranty.jpg'
     },
 ];
 
